@@ -11,3 +11,4 @@ The list of [Kubernetes interview questions](INTERVIEW.md) is a comprehensive gu
 We hope these resources are helpful to you as you learn and review Kubernetes concepts. If you have any questions or suggestions, please feel free to open an issue or pull request in this repository.
 
 Thank you for visiting!
+
